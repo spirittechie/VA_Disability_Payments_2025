@@ -5,7 +5,7 @@ This repository provides `.ics` calendar files for VA disability payments in 202
 Many veterans receive their VA disability payments on a different schedule depending on their financial institution. Some credit unions and online banks process payments **one or more days early**. This repository includes two `.ics` calendar files:
 
 1. **VA_Official.ics** - The standard VA disability payment dates.
-2. **VA_EarlyDeposit.ics** - Adjusted payment dates for those who receive funds **one day early**.
+2. **VA_EarlyDeposit1.ics** - Adjusted payment dates for those who receive funds **one day early**.
 
 Future updates may include **customized versions** for institutions that release funds **two or three days early**, based on community feedback.
 
