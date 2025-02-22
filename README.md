@@ -4,8 +4,8 @@ This repository provides `.ics` calendar files for VA disability payments in 202
 ## 📌 About
 Many veterans receive their VA disability payments on a different schedule depending on their financial institution. Some credit unions and online banks process payments **one or more days early**. This repository includes two `.ics` calendar files:
 
-1. **VA_Official.ics** - The standard VA disability payment dates.
-2. **VA_EarlyDeposit1.ics** - Adjusted payment dates for those who receive funds **one day early**.
+1. **VA_Standard.ics** - The standard VA disability payment dates.
+2. **VA_EarlyDeposit_1Day.ics** - Adjusted payment dates for those who receive funds **one day early**.
 
 Future updates may include **customized versions** for institutions that release funds **two or three days early**, based on community feedback.
 
@@ -29,8 +29,8 @@ Future updates may include **customized versions** for institutions that release
 ## 🔧 How to Use
 ### Importing into Google Calendar
 1. **Download the `.ics` file** you need:
-   - [VA_Official.ics](VA_Official.ics) *(Standard VA Schedule)*
-   - [VA_EarlyDeposit1.ics](VA_EarlyDeposit1.ics) *(One-Day Early Deposit Schedule)*
+   - [VA_Standard.ics](VA_Standard.ics) *(Standard VA Schedule)*
+   - [VA_EarlyDeposit_1Day.ics](VA_EarlyDeposit_1Day.ics) *(One-Day Early Deposit Schedule)*
 
 2. **Open Google Calendar** on your desktop.
 3. Click on the ⚙ **Settings** icon → Select **Import & Export**.
