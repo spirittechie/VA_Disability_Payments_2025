@@ -30,7 +30,7 @@ Future updates may include **customized versions** for institutions that release
 ### Importing into Google Calendar
 1. **Download the `.ics` file** you need:
    - [VA_Official.ics](VA_Official.ics) *(Standard VA Schedule)*
-   - [VA_EarlyDeposit.ics](VA_EarlyDeposit.ics) *(One-Day Early Deposit Schedule)*
+   - [VA_EarlyDeposit1.ics](VA_EarlyDeposit1.ics) *(One-Day Early Deposit Schedule)*
 
 2. **Open Google Calendar** on your desktop.
 3. Click on the ⚙ **Settings** icon → Select **Import & Export**.
